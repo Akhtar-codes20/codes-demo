@@ -1,4 +1,4 @@
 # codes-demo
 This is my first Git Repository.
 <br>
-author Akhtar
+author Akhtar (is genious)
